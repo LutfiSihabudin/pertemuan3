@@ -1,0 +1,25 @@
+
+{
+  "DATA_NEWS": [
+    {
+      "title_news": "Semut",
+      "link_news": "<p>Hewan Ini adalah semut</p>",
+      "image_link": "file:///android_asset/p311.png"
+    },
+    {
+      "title_news": "Gajah",
+      "link_news": "<p>Ini adalah Gajah</p>",
+      "image_link": "file:///android_asset/p332.jpg"
+    },
+    {
+      "title_news": "Jerapah",
+      "link_news": "<p>Ini Hewan adalah jeparah</p>",
+      "image_link": "file:///android_asset/p333.jpg"
+    },
+    {
+      "title_news": "Tikus",
+      "link_news": "<p>Ini Hewan adalah tikus</p>",
+      "image_link": "file:///android_asset/p334.jpeg"
+    }
+  ]
+}
