@@ -1,4 +1,4 @@
 # Gambar Aplikasi 
 
-![Menu Utama](./p3.jpeg)
-![Menu lain](./p31.jpeg)
+![Menu Utama](./p31.jpeg)
+![Menu lain](./p32.jpeg)
